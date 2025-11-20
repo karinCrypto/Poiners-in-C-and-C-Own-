@@ -1,3 +1,5 @@
+// Result-Based Error Handling
+
 fn read_file(path: &str) -> Result<String, std::io::Error> {
     std::fs::read_to_string(path)
 }
