@@ -15,6 +15,8 @@ C++에서는 포인터가 언어 체계의 중심에 있지 않다.
 3. 스마트 포인터(unique_ptr, shared_ptr 등)
 
 4. STL 컨테이너(vector, string, map 등)
+   
+<h3> C++에는 포인터 책이 거의 없는 이유 (Why There Are So Few Books on C++ Pointers?) </h3>
 
 <h3> C++개발자</h3>
 이미 C 포인터를 알고 C++로 넘어온 사람이 많음 
@@ -59,5 +61,3 @@ C++ 입문자는 포인터보다 STL/클래스 위주로 진행
 
 2. https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=33784887&srsltid=AfmBOopMrjLslcHXAYl1kVhlBa4S_-fxEbVwUntlOqn3PuK18epC6zZS&utm_source=chatgpt.com#8994506799_CommentReview
 3. https://www.oreilly.com/library/view/pointers-in-c/9781484269275/?utm_source=chatgpt.com
-   
-<h3> C++ 포인터 책이 거의 없는 이유 (Why There Are So Few Books on C++ Pointers?) </h3>
